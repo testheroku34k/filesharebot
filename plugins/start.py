@@ -91,12 +91,11 @@ async def start_command(client: Client, message: Message):
                     InlineKeyboardButton("❤️‍🔥Main Channel❤️‍🔥", url="https://t.me/tamil4katmos")
                 ],
                 [
-                    InlineKeyboardButton("REQUEST😇", url="https://t.me/+BTloleyZM1IxMzhl"),
-                    InlineKeyboardButton("❤️SUPPORT", url="https://t.me/tamil4ksupport")
+                    InlineKeyboardButton("REQUEST😇", url="https://t.me/+BTloleyZM1IxMzhl")
                 ],
                 [
-                    InlineKeyboardButton("😊About Me", callback_data = "about"),
-                    InlineKeyboardButton("Close🔒", callback_data = "close")
+                    InlineKeyboardButton("❤️SUPPORT", url="https://t.me/tamil4ksupport"),
+                    InlineKeyboardButton("😊About Me", callback_data = "about")
                 ]
             ]
         )
